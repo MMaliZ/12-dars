@@ -191,6 +191,9 @@ header {
   justify-content: center;
   align-items: center;
   gap: 80px;
+  background-image: url(../images/logos-tech.svgs);
+  background-repeat: no-repeat;
+  /* background-position: center; */
 }
 
 .your-book-title {
